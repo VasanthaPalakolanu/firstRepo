@@ -1,2 +1,2 @@
 parallel development in git
-added a new line to the text1 file
+added a new line
